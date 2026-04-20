@@ -1,4 +1,4 @@
-# .github/workflows/deploy.yml
+# .github/workflows/ci-deploy.yml
 name: CI/CD — Guia Infnet
 
 on:
